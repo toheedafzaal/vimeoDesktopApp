@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "WpOfMo0f3FVMZ0fNUbc4vekfmsqBrYSgFGmqtZXFLZdL4muTXGbjMYDBzGZmL9/mDxurpsBUzTUO5Bo3zzlPlg==",
+  "dgSpecHash": "pse8Rdjif6h5f2+snCBJ1iPLrf1VjzlCE0/G8t0VlHa/YhEEzKWLK+3LRFRPQreXBIHcKEI1whwFq9q3AY+C9w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\haier\\Desktop\\Dot NET core\\Panacealogic Office\\Vimeo Desktop Application\\Updated Code\\WebBrowser_HTML_File\\WebBrowser_HTML_File_CS\\VimeoVSV.csproj",
+  "projectFilePath": "C:\\Users\\haier\\Desktop\\Dot NET core\\Panacealogic Office\\Vimeo Desktop Application\\Jun 15 GitHub Deployemet\\WebBrowser_HTML_File_CS\\VimeoVSV.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\haier\\.nuget\\packages\\altohttp\\1.4.5\\altohttp.1.4.5.nupkg.sha512",
     "C:\\Users\\haier\\.nuget\\packages\\microsoft.office.interop.word\\15.0.4420.1017\\microsoft.office.interop.word.15.0.4420.1017.nupkg.sha512",

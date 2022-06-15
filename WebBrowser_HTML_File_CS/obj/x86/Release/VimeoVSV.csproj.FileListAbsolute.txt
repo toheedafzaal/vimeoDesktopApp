@@ -19,3 +19,25 @@ C:\Users\haier\Desktop\Dot NET core\Panacealogic Office\Vimeo Desktop Applicatio
 C:\Users\haier\Desktop\Dot NET core\Panacealogic Office\Vimeo Desktop Application\Updated Code\WebBrowser_HTML_File\WebBrowser_HTML_File_CS\bin\Release\System.Collections.Immutable.dll
 C:\Users\haier\Desktop\Dot NET core\Panacealogic Office\Vimeo Desktop Application\Updated Code\WebBrowser_HTML_File\WebBrowser_HTML_File_CS\bin\Release\System.Reflection.Metadata.dll
 C:\Users\haier\Desktop\Dot NET core\Panacealogic Office\Vimeo Desktop Application\Updated Code\WebBrowser_HTML_File\WebBrowser_HTML_File_CS\obj\x86\Release\WebBrowser_HTML_File_CS.Form2.resources
+C:\Users\haier\Desktop\Dot NET core\Panacealogic Office\Vimeo Desktop Application\Jun 15 GitHub Deployemet\WebBrowser_HTML_File_CS\bin\Release\WebBrowser_HTML_File_CS.exe.config
+C:\Users\haier\Desktop\Dot NET core\Panacealogic Office\Vimeo Desktop Application\Jun 15 GitHub Deployemet\WebBrowser_HTML_File_CS\bin\Release\WebBrowser_HTML_File_CS.exe.manifest
+C:\Users\haier\Desktop\Dot NET core\Panacealogic Office\Vimeo Desktop Application\Jun 15 GitHub Deployemet\WebBrowser_HTML_File_CS\bin\Release\WebBrowser_HTML_File_CS.application
+C:\Users\haier\Desktop\Dot NET core\Panacealogic Office\Vimeo Desktop Application\Jun 15 GitHub Deployemet\WebBrowser_HTML_File_CS\bin\Release\WebBrowser_HTML_File_CS.exe
+C:\Users\haier\Desktop\Dot NET core\Panacealogic Office\Vimeo Desktop Application\Jun 15 GitHub Deployemet\WebBrowser_HTML_File_CS\bin\Release\WebBrowser_HTML_File_CS.pdb
+C:\Users\haier\Desktop\Dot NET core\Panacealogic Office\Vimeo Desktop Application\Jun 15 GitHub Deployemet\WebBrowser_HTML_File_CS\bin\Release\AltoHttp.dll
+C:\Users\haier\Desktop\Dot NET core\Panacealogic Office\Vimeo Desktop Application\Jun 15 GitHub Deployemet\WebBrowser_HTML_File_CS\bin\Release\Microsoft.Office.Interop.Word.dll
+C:\Users\haier\Desktop\Dot NET core\Panacealogic Office\Vimeo Desktop Application\Jun 15 GitHub Deployemet\WebBrowser_HTML_File_CS\bin\Release\System.Collections.Immutable.dll
+C:\Users\haier\Desktop\Dot NET core\Panacealogic Office\Vimeo Desktop Application\Jun 15 GitHub Deployemet\WebBrowser_HTML_File_CS\bin\Release\System.Reflection.Metadata.dll
+C:\Users\haier\Desktop\Dot NET core\Panacealogic Office\Vimeo Desktop Application\Jun 15 GitHub Deployemet\WebBrowser_HTML_File_CS\obj\x86\Release\VimeoVSV.csproj.AssemblyReference.cache
+C:\Users\haier\Desktop\Dot NET core\Panacealogic Office\Vimeo Desktop Application\Jun 15 GitHub Deployemet\WebBrowser_HTML_File_CS\obj\x86\Release\WebBrowser_HTML_File_CS.Form1.resources
+C:\Users\haier\Desktop\Dot NET core\Panacealogic Office\Vimeo Desktop Application\Jun 15 GitHub Deployemet\WebBrowser_HTML_File_CS\obj\x86\Release\WebBrowser_HTML_File_CS.Form2.resources
+C:\Users\haier\Desktop\Dot NET core\Panacealogic Office\Vimeo Desktop Application\Jun 15 GitHub Deployemet\WebBrowser_HTML_File_CS\obj\x86\Release\WebBrowser_HTML_File_CS.Properties.Resources.resources
+C:\Users\haier\Desktop\Dot NET core\Panacealogic Office\Vimeo Desktop Application\Jun 15 GitHub Deployemet\WebBrowser_HTML_File_CS\obj\x86\Release\WebBrowser_HTML_File_CS.VsvInstaller.resources
+C:\Users\haier\Desktop\Dot NET core\Panacealogic Office\Vimeo Desktop Application\Jun 15 GitHub Deployemet\WebBrowser_HTML_File_CS\obj\x86\Release\VimeoVSV.csproj.GenerateResource.cache
+C:\Users\haier\Desktop\Dot NET core\Panacealogic Office\Vimeo Desktop Application\Jun 15 GitHub Deployemet\WebBrowser_HTML_File_CS\obj\x86\Release\VimeoVSV.csproj.CoreCompileInputs.cache
+C:\Users\haier\Desktop\Dot NET core\Panacealogic Office\Vimeo Desktop Application\Jun 15 GitHub Deployemet\WebBrowser_HTML_File_CS\obj\x86\Release\WebBrowser_HTML_File_CS.TrustInfo.xml
+C:\Users\haier\Desktop\Dot NET core\Panacealogic Office\Vimeo Desktop Application\Jun 15 GitHub Deployemet\WebBrowser_HTML_File_CS\obj\x86\Release\WebBrowser_HTML_File_CS.exe.manifest
+C:\Users\haier\Desktop\Dot NET core\Panacealogic Office\Vimeo Desktop Application\Jun 15 GitHub Deployemet\WebBrowser_HTML_File_CS\obj\x86\Release\WebBrowser_HTML_File_CS.application
+C:\Users\haier\Desktop\Dot NET core\Panacealogic Office\Vimeo Desktop Application\Jun 15 GitHub Deployemet\WebBrowser_HTML_File_CS\obj\x86\Release\VimeoVSV.csproj.CopyComplete
+C:\Users\haier\Desktop\Dot NET core\Panacealogic Office\Vimeo Desktop Application\Jun 15 GitHub Deployemet\WebBrowser_HTML_File_CS\obj\x86\Release\WebBrowser_HTML_File_CS.exe
+C:\Users\haier\Desktop\Dot NET core\Panacealogic Office\Vimeo Desktop Application\Jun 15 GitHub Deployemet\WebBrowser_HTML_File_CS\obj\x86\Release\WebBrowser_HTML_File_CS.pdb

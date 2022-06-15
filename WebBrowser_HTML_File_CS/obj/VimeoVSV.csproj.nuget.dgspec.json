@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\haier\\Desktop\\Dot NET core\\Panacealogic Office\\Vimeo Desktop Application\\Updated Code\\WebBrowser_HTML_File\\WebBrowser_HTML_File_CS\\VimeoVSV.csproj": {}
+    "C:\\Users\\haier\\Desktop\\Dot NET core\\Panacealogic Office\\Vimeo Desktop Application\\Jun 15 GitHub Deployemet\\WebBrowser_HTML_File_CS\\VimeoVSV.csproj": {}
   },
   "projects": {
-    "C:\\Users\\haier\\Desktop\\Dot NET core\\Panacealogic Office\\Vimeo Desktop Application\\Updated Code\\WebBrowser_HTML_File\\WebBrowser_HTML_File_CS\\VimeoVSV.csproj": {
+    "C:\\Users\\haier\\Desktop\\Dot NET core\\Panacealogic Office\\Vimeo Desktop Application\\Jun 15 GitHub Deployemet\\WebBrowser_HTML_File_CS\\VimeoVSV.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\haier\\Desktop\\Dot NET core\\Panacealogic Office\\Vimeo Desktop Application\\Updated Code\\WebBrowser_HTML_File\\WebBrowser_HTML_File_CS\\VimeoVSV.csproj",
+        "projectUniqueName": "C:\\Users\\haier\\Desktop\\Dot NET core\\Panacealogic Office\\Vimeo Desktop Application\\Jun 15 GitHub Deployemet\\WebBrowser_HTML_File_CS\\VimeoVSV.csproj",
         "projectName": "VimeoVSV",
-        "projectPath": "C:\\Users\\haier\\Desktop\\Dot NET core\\Panacealogic Office\\Vimeo Desktop Application\\Updated Code\\WebBrowser_HTML_File\\WebBrowser_HTML_File_CS\\VimeoVSV.csproj",
+        "projectPath": "C:\\Users\\haier\\Desktop\\Dot NET core\\Panacealogic Office\\Vimeo Desktop Application\\Jun 15 GitHub Deployemet\\WebBrowser_HTML_File_CS\\VimeoVSV.csproj",
         "packagesPath": "C:\\Users\\haier\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\haier\\Desktop\\Dot NET core\\Panacealogic Office\\Vimeo Desktop Application\\Updated Code\\WebBrowser_HTML_File\\WebBrowser_HTML_File_CS\\obj\\",
+        "outputPath": "C:\\Users\\haier\\Desktop\\Dot NET core\\Panacealogic Office\\Vimeo Desktop Application\\Jun 15 GitHub Deployemet\\WebBrowser_HTML_File_CS\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "configFilePaths": [
