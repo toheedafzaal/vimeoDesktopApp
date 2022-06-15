@@ -1,0 +1,168 @@
+﻿<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+<head>
+    <title></title>
+
+
+    <meta content='IE=Edge' http-equiv='X-UA-Compatible' />
+    <script src="https://player.vimeo.com/api/player.js"></script>
+    <style>
+        #video-container {
+            position: absolute;
+            /*background-color: black;*/
+            border: none;
+            top: 0;
+            right: 0;
+            bottom: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+        }
+    </style>
+</head>
+
+<body>
+
+    <div id="video-container" ></div>
+
+    <script>
+        //window.external.getVideoIds();
+        //var videos = [];
+        //function getids() {
+        //    alert("this is called from c#");
+        //    return window.external.getVideoIds();
+        //}
+        //videos = [590305554, 36319428, 95212995, 67423133, 131484417];
+        //debugger;
+        var videoss = window.external.getVideoIds();
+        //alert(videoss)
+        //alert(videoss.length)
+        //var videos =[];
+        var videos = videoss.split(",");
+        //alert(videos);
+       // alert(videos.length);
+        //var videosss = [590305554, 36319428, 95212995, 67423133, 131484417];
+        //alert(videosss);
+        //alert(videosss.length)
+        //alert(videos.length);
+        //alert(videos[0]);
+        //alert(videos.shift());
+        //var xxxx = videos.shift();
+        //alert(xxxx);
+        //var yyy = videos.shift();
+       // alert(yyy);
+        //const myArray = videos.split(","); "[590305554,36319428,95212995,67423133,131484417]";
+        //alert(myArray[0]);
+        //let ids = parseInt(videos, 10);
+        //JSON.parse("[" + videos + "]");
+        //alert(videos[0]);
+        //alert(videos.count);
+        //alert(videos);
+        //const usingArrayFrom = Array.from(videos);
+        //videos.toString();
+        //Array.from(videos);
+        //Object.assign([], videos);
+        //alert(usingArrayFrom);
+        //alert(videos[0].toString());
+        //var videos = [590305554, 36319428, 95212995, 67423133, 131484417];
+        //alert(videos);
+        var savePlaysarr = [];
+        var respDblist;
+        var arrayVideos = [];
+        var isLoadWindow = 0;
+        var loopIndex = 0;
+        var videotime = [];
+        var playMovie = function (player, videos, options) {
+            if (!videos.length) {
+                //alert("videos are ended");
+                return false;
+            }
+            console.log(videos);
+            var video = 'https://vimeo.com/' + videos.shift();
+            //alert(video);
+            //alert(videos.length);
+            //checks if player in defined/initialized or not
+            //var kkkk = !player;
+            //alert(kkkk);
+            if (!player) {
+                //alert("inside the player")
+                options.url = video;
+                console.log(video, 'video*URL');
+                testid = video;
+                player = new Vimeo.Player('video-container', options);
+                //alert(player);
+                //document.getElementById("video-container").requestFullscreen();
+                player.play();
+                //toggleFullScreen();
+                player.on('ended', function () {
+                    //alert("video ended");
+                    playMovie(player, videos, options)
+                })
+            } else {
+                console.log(video);
+                //alert("line 89");
+                
+                //alert("inside the else condition")
+                //alert(video);
+                testid = video;
+                const idd = video.split("/");
+                //alert(idd[3]);
+                var videoid = idd[3];
+                //alert(videoid)
+                //player.loadVideo(76979871).then(function (id) { this is the code of vimeo video load function
+                player.loadVideo(videoid)
+                    .then(function () {
+                        //console.log(arrayVideos);
+                        //alert("video is loaded");
+                        player.play();
+                    })
+                    .catch(function (error) {
+                        console.log(testid + '*');
+                        //GetloopVideos();
+                        //alert("an error occured")
+                        console.warn(error);
+                    })
+                    .complete(function () { alert("function completed");})
+                    ;
+                alert("end of load")
+            }
+            player.getEnded(true).then(function (ended) {
+                // `ended` indicates whether the video has ended
+                if (videos.length == 3) {
+                    var respDateTime = GetPlaysTime();
+                    videotime.push(respDateTime);
+                }
+                else if (videos.length == 2) {
+                    var respDateTime = GetPlaysTime();
+                    videotime.push(respDateTime);
+                }
+                else if (videos.length == 1) {
+                    var respDateTime = GetPlaysTime();
+                    videotime.push(respDateTime);
+                }
+                else if (videos.length == 0) {
+                    isLoadWindow = 1;
+                    loopIndex++;
+                    // GetloopVideos();
+                    // SavePlays(respDblist);
+                }
+            });
+        }
+        function GetPlaysTime() {
+            var date = new Date();
+            FormatedDate = moment(date).format("yyyy-MM-DDTHH:mm:ss");
+            alert(FormatedDate);
+            return FormatedDate;
+        }
+        //function toggleFullScreen() {
+        //   var element = document.getElementById("video-container");
+        //   element.requestFullscreen();
+        //}
+        var options = {
+            width: "1300",
+            height: "650"
+        };
+        playMovie(null, videos, options);
+    </script>
+</body>
+</html>

@@ -1,0 +1,23 @@
+D:\Dropbox\Samples\Windows\WebBrowser_HTML_File\WebBrowser_HTML_File_CS\bin\Debug\WebBrowser_HTML_File_CS.exe
+D:\Dropbox\Samples\Windows\WebBrowser_HTML_File\WebBrowser_HTML_File_CS\bin\Debug\WebBrowser_HTML_File_CS.pdb
+D:\Dropbox\Samples\Windows\WebBrowser_HTML_File\WebBrowser_HTML_File_CS\obj\x86\Debug\WebBrowser_HTML_File_CS.Form1.resources
+D:\Dropbox\Samples\Windows\WebBrowser_HTML_File\WebBrowser_HTML_File_CS\obj\x86\Debug\WebBrowser_HTML_File_CS.Properties.Resources.resources
+D:\Dropbox\Samples\Windows\WebBrowser_HTML_File\WebBrowser_HTML_File_CS\obj\x86\Debug\WebBrowser_HTML_File_CS.csproj.GenerateResource.Cache
+D:\Dropbox\Samples\Windows\WebBrowser_HTML_File\WebBrowser_HTML_File_CS\obj\x86\Debug\WebBrowser_HTML_File_CS.exe
+D:\Dropbox\Samples\Windows\WebBrowser_HTML_File\WebBrowser_HTML_File_CS\obj\x86\Debug\WebBrowser_HTML_File_CS.pdb
+C:\Users\haier\Desktop\Dot NET core\Panacealogic Office\Vimeo Desktop Application\Updated Code\WebBrowser_HTML_File\WebBrowser_HTML_File_CS\bin\Debug\WebBrowser_HTML_File_CS.exe
+C:\Users\haier\Desktop\Dot NET core\Panacealogic Office\Vimeo Desktop Application\Updated Code\WebBrowser_HTML_File\WebBrowser_HTML_File_CS\bin\Debug\WebBrowser_HTML_File_CS.pdb
+C:\Users\haier\Desktop\Dot NET core\Panacealogic Office\Vimeo Desktop Application\Updated Code\WebBrowser_HTML_File\WebBrowser_HTML_File_CS\obj\x86\Debug\WebBrowser_HTML_File_CS.csproj.AssemblyReference.cache
+C:\Users\haier\Desktop\Dot NET core\Panacealogic Office\Vimeo Desktop Application\Updated Code\WebBrowser_HTML_File\WebBrowser_HTML_File_CS\obj\x86\Debug\WebBrowser_HTML_File_CS.Form1.resources
+C:\Users\haier\Desktop\Dot NET core\Panacealogic Office\Vimeo Desktop Application\Updated Code\WebBrowser_HTML_File\WebBrowser_HTML_File_CS\obj\x86\Debug\WebBrowser_HTML_File_CS.Properties.Resources.resources
+C:\Users\haier\Desktop\Dot NET core\Panacealogic Office\Vimeo Desktop Application\Updated Code\WebBrowser_HTML_File\WebBrowser_HTML_File_CS\obj\x86\Debug\WebBrowser_HTML_File_CS.csproj.GenerateResource.cache
+C:\Users\haier\Desktop\Dot NET core\Panacealogic Office\Vimeo Desktop Application\Updated Code\WebBrowser_HTML_File\WebBrowser_HTML_File_CS\obj\x86\Debug\WebBrowser_HTML_File_CS.csproj.CoreCompileInputs.cache
+C:\Users\haier\Desktop\Dot NET core\Panacealogic Office\Vimeo Desktop Application\Updated Code\WebBrowser_HTML_File\WebBrowser_HTML_File_CS\obj\x86\Debug\WebBrowser_HTML_File_CS.exe
+C:\Users\haier\Desktop\Dot NET core\Panacealogic Office\Vimeo Desktop Application\Updated Code\WebBrowser_HTML_File\WebBrowser_HTML_File_CS\obj\x86\Debug\WebBrowser_HTML_File_CS.pdb
+C:\Users\haier\Desktop\Dot NET core\Panacealogic Office\Vimeo Desktop Application\Updated Code\WebBrowser_HTML_File\WebBrowser_HTML_File_CS\obj\x86\Debug\WebBrowser_HTML_File_CS.AdminLogin.resources
+C:\Users\haier\Desktop\Dot NET core\Panacealogic Office\Vimeo Desktop Application\Updated Code\WebBrowser_HTML_File\WebBrowser_HTML_File_CS\bin\Debug\WebBrowser_HTML_File_CS.exe.manifest
+C:\Users\haier\Desktop\Dot NET core\Panacealogic Office\Vimeo Desktop Application\Updated Code\WebBrowser_HTML_File\WebBrowser_HTML_File_CS\bin\Debug\WebBrowser_HTML_File_CS.application
+C:\Users\haier\Desktop\Dot NET core\Panacealogic Office\Vimeo Desktop Application\Updated Code\WebBrowser_HTML_File\WebBrowser_HTML_File_CS\obj\x86\Debug\WebBrowser_HTML_File_CS.TrustInfo.xml
+C:\Users\haier\Desktop\Dot NET core\Panacealogic Office\Vimeo Desktop Application\Updated Code\WebBrowser_HTML_File\WebBrowser_HTML_File_CS\obj\x86\Debug\WebBrowser_HTML_File_CS.exe.manifest
+C:\Users\haier\Desktop\Dot NET core\Panacealogic Office\Vimeo Desktop Application\Updated Code\WebBrowser_HTML_File\WebBrowser_HTML_File_CS\obj\x86\Debug\WebBrowser_HTML_File_CS.application
+C:\Users\haier\Desktop\Dot NET core\Panacealogic Office\Vimeo Desktop Application\Updated Code\WebBrowser_HTML_File\WebBrowser_HTML_File_CS\bin\Debug\WebBrowser_HTML_File_CS.exe.config

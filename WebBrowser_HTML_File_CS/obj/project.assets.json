@@ -1,0 +1,312 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETFramework,Version=v4.5": {
+      "AltoHttp/1.4.5": {
+        "type": "package",
+        "compile": {
+          "lib/net40/AltoHttp.dll": {}
+        },
+        "runtime": {
+          "lib/net40/AltoHttp.dll": {}
+        }
+      },
+      "Microsoft.Office.Interop.Word/15.0.4420.1017": {
+        "type": "package",
+        "compile": {
+          "lib/net20/Microsoft.Office.Interop.Word.dll": {}
+        },
+        "runtime": {
+          "lib/net20/Microsoft.Office.Interop.Word.dll": {}
+        }
+      },
+      "System.Collections.Immutable/5.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/portable-net45+win8+wp8+wpa81/System.Collections.Immutable.dll": {}
+        },
+        "runtime": {
+          "lib/portable-net45+win8+wp8+wpa81/System.Collections.Immutable.dll": {}
+        }
+      },
+      "System.Reflection.Metadata/5.0.0": {
+        "type": "package",
+        "dependencies": {
+          "System.Collections.Immutable": "5.0.0"
+        },
+        "compile": {
+          "lib/portable-net45+win8/System.Reflection.Metadata.dll": {}
+        },
+        "runtime": {
+          "lib/portable-net45+win8/System.Reflection.Metadata.dll": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.5/win": {
+      "AltoHttp/1.4.5": {
+        "type": "package",
+        "compile": {
+          "lib/net40/AltoHttp.dll": {}
+        },
+        "runtime": {
+          "lib/net40/AltoHttp.dll": {}
+        }
+      },
+      "Microsoft.Office.Interop.Word/15.0.4420.1017": {
+        "type": "package",
+        "compile": {
+          "lib/net20/Microsoft.Office.Interop.Word.dll": {}
+        },
+        "runtime": {
+          "lib/net20/Microsoft.Office.Interop.Word.dll": {}
+        }
+      },
+      "System.Collections.Immutable/5.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/portable-net45+win8+wp8+wpa81/System.Collections.Immutable.dll": {}
+        },
+        "runtime": {
+          "lib/portable-net45+win8+wp8+wpa81/System.Collections.Immutable.dll": {}
+        }
+      },
+      "System.Reflection.Metadata/5.0.0": {
+        "type": "package",
+        "dependencies": {
+          "System.Collections.Immutable": "5.0.0"
+        },
+        "compile": {
+          "lib/portable-net45+win8/System.Reflection.Metadata.dll": {}
+        },
+        "runtime": {
+          "lib/portable-net45+win8/System.Reflection.Metadata.dll": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.5/win-x64": {
+      "AltoHttp/1.4.5": {
+        "type": "package",
+        "compile": {
+          "lib/net40/AltoHttp.dll": {}
+        },
+        "runtime": {
+          "lib/net40/AltoHttp.dll": {}
+        }
+      },
+      "Microsoft.Office.Interop.Word/15.0.4420.1017": {
+        "type": "package",
+        "compile": {
+          "lib/net20/Microsoft.Office.Interop.Word.dll": {}
+        },
+        "runtime": {
+          "lib/net20/Microsoft.Office.Interop.Word.dll": {}
+        }
+      },
+      "System.Collections.Immutable/5.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/portable-net45+win8+wp8+wpa81/System.Collections.Immutable.dll": {}
+        },
+        "runtime": {
+          "lib/portable-net45+win8+wp8+wpa81/System.Collections.Immutable.dll": {}
+        }
+      },
+      "System.Reflection.Metadata/5.0.0": {
+        "type": "package",
+        "dependencies": {
+          "System.Collections.Immutable": "5.0.0"
+        },
+        "compile": {
+          "lib/portable-net45+win8/System.Reflection.Metadata.dll": {}
+        },
+        "runtime": {
+          "lib/portable-net45+win8/System.Reflection.Metadata.dll": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.5/win-x86": {
+      "AltoHttp/1.4.5": {
+        "type": "package",
+        "compile": {
+          "lib/net40/AltoHttp.dll": {}
+        },
+        "runtime": {
+          "lib/net40/AltoHttp.dll": {}
+        }
+      },
+      "Microsoft.Office.Interop.Word/15.0.4420.1017": {
+        "type": "package",
+        "compile": {
+          "lib/net20/Microsoft.Office.Interop.Word.dll": {}
+        },
+        "runtime": {
+          "lib/net20/Microsoft.Office.Interop.Word.dll": {}
+        }
+      },
+      "System.Collections.Immutable/5.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/portable-net45+win8+wp8+wpa81/System.Collections.Immutable.dll": {}
+        },
+        "runtime": {
+          "lib/portable-net45+win8+wp8+wpa81/System.Collections.Immutable.dll": {}
+        }
+      },
+      "System.Reflection.Metadata/5.0.0": {
+        "type": "package",
+        "dependencies": {
+          "System.Collections.Immutable": "5.0.0"
+        },
+        "compile": {
+          "lib/portable-net45+win8/System.Reflection.Metadata.dll": {}
+        },
+        "runtime": {
+          "lib/portable-net45+win8/System.Reflection.Metadata.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AltoHttp/1.4.5": {
+      "sha512": "tl+29Fw0Pn1tWPPlqtmx3jTEfXdxPmOBWb+vT5J6pet5aAOpSvfcBPurs9KYyA7Jpitz94uXe3A7s4zNY88IRw==",
+      "type": "package",
+      "path": "altohttp/1.4.5",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "altohttp.1.4.5.nupkg.sha512",
+        "altohttp.nuspec",
+        "lib/net40/AltoHttp.dll"
+      ]
+    },
+    "Microsoft.Office.Interop.Word/15.0.4420.1017": {
+      "sha512": "t6GkA9PT6vS0fJlLciorpH1ovkBad3UHaJnISG95siS+maqd8ITdxAkSZTgZHuYN4yFOwTyPOelO4DttgpZ96A==",
+      "type": "package",
+      "path": "microsoft.office.interop.word/15.0.4420.1017",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net20/Microsoft.Office.Interop.Word.dll",
+        "microsoft.office.interop.word.15.0.4420.1017.nupkg.sha512",
+        "microsoft.office.interop.word.nuspec"
+      ]
+    },
+    "System.Collections.Immutable/5.0.0": {
+      "sha512": "FXkLXiK0sVVewcso0imKQoOxjoPAj42R8HtjjbSjVPAzwDfzoyoznWxgA3c38LDbN9SJux1xXoXYAhz98j7r2g==",
+      "type": "package",
+      "path": "system.collections.immutable/5.0.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Icon.png",
+        "LICENSE.TXT",
+        "THIRD-PARTY-NOTICES.TXT",
+        "lib/net461/System.Collections.Immutable.dll",
+        "lib/net461/System.Collections.Immutable.xml",
+        "lib/netstandard1.0/System.Collections.Immutable.dll",
+        "lib/netstandard1.0/System.Collections.Immutable.xml",
+        "lib/netstandard1.3/System.Collections.Immutable.dll",
+        "lib/netstandard1.3/System.Collections.Immutable.xml",
+        "lib/netstandard2.0/System.Collections.Immutable.dll",
+        "lib/netstandard2.0/System.Collections.Immutable.xml",
+        "lib/portable-net45+win8+wp8+wpa81/System.Collections.Immutable.dll",
+        "lib/portable-net45+win8+wp8+wpa81/System.Collections.Immutable.xml",
+        "system.collections.immutable.5.0.0.nupkg.sha512",
+        "system.collections.immutable.nuspec",
+        "useSharedDesignerContext.txt",
+        "version.txt"
+      ]
+    },
+    "System.Reflection.Metadata/5.0.0": {
+      "sha512": "5NecZgXktdGg34rh1OenY1rFNDCI8xSjFr+Z4OU4cU06AQHUdRnIIEeWENu3Wl4YowbzkymAIMvi3WyK9U53pQ==",
+      "type": "package",
+      "path": "system.reflection.metadata/5.0.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Icon.png",
+        "LICENSE.TXT",
+        "THIRD-PARTY-NOTICES.TXT",
+        "lib/net461/System.Reflection.Metadata.dll",
+        "lib/net461/System.Reflection.Metadata.xml",
+        "lib/netstandard1.1/System.Reflection.Metadata.dll",
+        "lib/netstandard1.1/System.Reflection.Metadata.xml",
+        "lib/netstandard2.0/System.Reflection.Metadata.dll",
+        "lib/netstandard2.0/System.Reflection.Metadata.xml",
+        "lib/portable-net45+win8/System.Reflection.Metadata.dll",
+        "lib/portable-net45+win8/System.Reflection.Metadata.xml",
+        "system.reflection.metadata.5.0.0.nupkg.sha512",
+        "system.reflection.metadata.nuspec",
+        "useSharedDesignerContext.txt",
+        "version.txt"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETFramework,Version=v4.5": [
+      "AltoHttp >= 1.4.5",
+      "Microsoft.Office.Interop.Word >= 15.0.4420.1017",
+      "System.Reflection.Metadata >= 5.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\haier\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\haier\\Desktop\\Dot NET core\\Panacealogic Office\\Vimeo Desktop Application\\Updated Code\\WebBrowser_HTML_File\\WebBrowser_HTML_File_CS\\VimeoVSV.csproj",
+      "projectName": "VimeoVSV",
+      "projectPath": "C:\\Users\\haier\\Desktop\\Dot NET core\\Panacealogic Office\\Vimeo Desktop Application\\Updated Code\\WebBrowser_HTML_File\\WebBrowser_HTML_File_CS\\VimeoVSV.csproj",
+      "packagesPath": "C:\\Users\\haier\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\haier\\Desktop\\Dot NET core\\Panacealogic Office\\Vimeo Desktop Application\\Updated Code\\WebBrowser_HTML_File\\WebBrowser_HTML_File_CS\\obj\\",
+      "projectStyle": "PackageReference",
+      "skipContentFileWrite": true,
+      "configFilePaths": [
+        "C:\\Users\\haier\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net45"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net45": {
+          "projectReferences": {}
+        }
+      }
+    },
+    "frameworks": {
+      "net45": {
+        "dependencies": {
+          "AltoHttp": {
+            "target": "Package",
+            "version": "[1.4.5, )"
+          },
+          "Microsoft.Office.Interop.Word": {
+            "target": "Package",
+            "version": "[15.0.4420.1017, )"
+          },
+          "System.Reflection.Metadata": {
+            "target": "Package",
+            "version": "[5.0.0, )"
+          }
+        }
+      }
+    },
+    "runtimes": {
+      "win": {
+        "#import": []
+      },
+      "win-x64": {
+        "#import": []
+      },
+      "win-x86": {
+        "#import": []
+      }
+    }
+  }
+}
